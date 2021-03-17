@@ -1,0 +1,6 @@
+Created a basic node application. 
+npm i express
+npm i nodemon -D // the D meaning we want it as a dev dependency
+
+configured nodemon in package.json to run in the format nodemon src/
+
